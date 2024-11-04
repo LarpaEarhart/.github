@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome to the LLS Larpa Earhard Team
+if you found this page without being in the TUM course, congrats. Nothing secret resides here, but nothing relevant either.
+## Team Information
+- please look at the ``Teams`` tab above and request to join your team
+- You can ping other teams in issues with ``@``, e.g. ``@LarpaEarhart/aerodynamics``
