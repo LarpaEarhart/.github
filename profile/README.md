@@ -19,3 +19,7 @@ No matter what data, environment constant, airfoil polar, etc you have, it shoul
 - **Every commit message must be understandable and useful**
 Commit messages are what is used to later parse through when changes were made and where issues might have been introduced. Make them useful.
 - Tip: Test your code and test it often. Testing every five lines is much faster than writing a hundred lines and debugging for five hours. Trust me.
+
+## Neat Resources
+- Indently - 5 good python habits, useful tricks to be aware of. https://youtu.be/I72uD8ED73U
+- CodeAestetic - Naming Things in Code, very good general advice, the rest of the channel is grea too. https://youtu.be/-J3wNP6u5YU
